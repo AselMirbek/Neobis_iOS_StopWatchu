@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C0A2B3F-7831-46CB-9D9F-3190F26107E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Neobis_iOS_StopWatch/StopWatchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "StopWatchViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - c889e9a7a7744240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.remainingTime.getter : Swift.Double"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/Neobis_iOS_StopWatch/StopWatchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - aa734da50c797c7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.remainingTime.setter : Swift.Double"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/Neobis_iOS_StopWatch/StopWatchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - 87b0c1a47161984f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.remainingTime.modify : Swift.Double"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/Neobis_iOS_StopWatch/StopWatchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - 2767b24091935474"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.remainingTime.modify : Swift.Double with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - 945507ea5ce308b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Neobis_iOS_StopWatch.StopWatchViewController"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/Neobis_iOS_StopWatch/StopWatchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  uuid = "0C94B3C5-AAFE-4425-A2E5-01586D438C03 - 98ba4fabb805b56b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Neobis_iOS_StopWatch.StopWatchViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Neobis_iOS_StopWatch.StopWatchViewController&gt;"
+                  moduleName = "Neobis_iOS_StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interlink/Desktop/Neobis_iOS_StopWatch/Neobis_iOS_StopWatch/StopWatchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
